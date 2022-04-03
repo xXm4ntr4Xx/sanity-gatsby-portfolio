@@ -4,6 +4,7 @@
   "version": "1.0.6",
   "main": "package.json",
   "author": "Sanity <hello@sanity.io>",
+  "type": "module",
   "scripts": {
     "dev": "sanity start",
     "format": "prettier-eslint --write \"**/*.js\" \"!node_modules/**\"",
